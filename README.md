@@ -35,7 +35,7 @@ Atliq Hardware is a leading  computer hardware company in India with operations 
 ## Tools & Technique:
 - Data Analysis
    - Microsoft Excel
-   - Microsoft Power BI Desktop (for map visual)
+   - Microsoft Power BI Desktop
    - Data Modeling
    - MySQL Workbench
    - SQL (CTE, Join, Sub Query, Window Function, Explain Analyze)
